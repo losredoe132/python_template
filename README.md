@@ -5,7 +5,7 @@ Basic tenplate for python with a light focus on data analysis and CLI applicatio
 # Setup
 Execute to setup conda env:
 ```
-conda env create --file env/env.yaml
+conda env create --file env/basic.yaml
 conda activate env_basic
 ```
 
